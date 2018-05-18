@@ -39,7 +39,7 @@
 ![prepro2_2](https://user-images.githubusercontent.com/21652564/40238148-54f8b5a2-5aed-11e8-87dd-758400ebb3c4.jpg)
 
 ## Model Compare
-  - LogitBoost
+  - LogitBoost
   - PCA_LogitBoost
   - svmRadialSigma
   - PCA_svmRadialSigma
