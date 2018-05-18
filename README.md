@@ -26,7 +26,11 @@
   
 ### dummy화
   
- * 접속사이트 대분류(BACT_NM)별 클릭횟수 * WEEK별 클릭횟수 * MONTH별 클릭횟수 * Hours별 클릭횟수 * 각 변수별 CV(변동계수)변수 생성
+ * 접속사이트 대분류(BACT_NM)별 클릭횟수
+ * WEEK별 클릭횟수
+ * MONTH별 클릭횟수
+ * Hours별 클릭횟수
+ * 각 변수별 CV(변동계수)변수 생성
 
 ![prepro2_1](https://user-images.githubusercontent.com/21652564/40238132-4900021e-5aed-11e8-8c1c-92a05528d9b2.jpg)
 ![prepro2_2](https://user-images.githubusercontent.com/21652564/40238148-54f8b5a2-5aed-11e8-87dd-758400ebb3c4.jpg)
