@@ -6,15 +6,15 @@
   
 ![clickstream_raw](https://user-images.githubusercontent.com/21652564/40236192-acd81cf0-5ae7-11e8-9e94-223feb3fe620.jpg)
 
-  * CUS_ID : 고객 아이디
-  * TIME_ID: 사이트에 접속한 시간 (형식: yyyymmddhh)
-  * SITE: 접속한 사이트 URL
-  * SITE_CNT: 해당 시간에 사이트에 접속한 횟수
-  * SITE_TIME: 해당 시간에 사이트에 접속하여 머문 기간(초 단위)
-  * SITE_NAME: 접속한 사이트명 (총 28,876개)
-  * BACT_NM: 접속한 사이트의 대분류 이름 (총 22개)
-  * MACT_NM: 접속한 사이트의 중분류 이름 (총 207개)
-  * ACT_NM: 접속한 사이트의 소분류 이름 (총 1,216개)
+  1. CUS_ID : 고객 아이디
+  2. TIME_ID: 사이트에 접속한 시간 (형식: yyyymmddhh)
+  3. SITE: 접속한 사이트 URL
+  4. SITE_CNT: 해당 시간에 사이트에 접속한 횟수
+  5. SITE_TIME: 해당 시간에 사이트에 접속하여 머문 기간(초 단위)
+  6. SITE_NAME: 접속한 사이트명 (총 28,876개)
+  7. BACT_NM: 접속한 사이트의 대분류 이름 (총 22개)
+  8. MACT_NM: 접속한 사이트의 중분류 이름 (총 207개)
+  9. ACT_NM: 접속한 사이트의 소분류 이름 (총 1,216개)
     * GENDER: 고객의 성별
 
 ## PreProcessing
