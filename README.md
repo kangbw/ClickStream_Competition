@@ -19,11 +19,11 @@
 
 ## PreProcessing
   
-  -month(월)
+  - month(월)
   
-  -week(요일)
+  - week(요일)
   
-  -hour(시간) ->  hours (시간의 구간)
+  - hour(시간) ->  hours (시간의 구간)
   
 ![clistr_1st](https://user-images.githubusercontent.com/21652564/40237059-49214206-5aea-11e8-8b95-9194dca530ae.png)
   
