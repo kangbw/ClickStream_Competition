@@ -4,4 +4,3 @@
   
   * 하지만 ClickStream Data만을 이용하여 정량 분석 하였음
   
-![Alt text](C:/Users/KANG/Documents/GitHub/kbw_repository/clickstream_raw.jpg "Optional title")
