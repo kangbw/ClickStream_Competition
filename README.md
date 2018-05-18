@@ -18,7 +18,8 @@
     * GENDER: 고객의 성별
 
 ## PreProcessing
-  * month(월)
+  
+  * month(월)
   * week(요일)
   * hour(시간) ->  hours (시간의 구간)
   
