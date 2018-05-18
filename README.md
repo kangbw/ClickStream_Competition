@@ -24,7 +24,8 @@
   
 ![clistr_1st](https://user-images.githubusercontent.com/21652564/40237059-49214206-5aea-11e8-8b95-9194dca530ae.png)
   
-  * dummy화 
+  * dummy화
+  
     - 접속사이트 대분류(BACT_NM)별 클릭횟수
     - WEEK별 클릭횟수
     - MONTH별 클릭횟수
